@@ -9,3 +9,6 @@ HOW TO USE IT
 4. Go to line 11, 12, 13 and enter the required data
 5. (optional) use pyinstaller (or another py-to-exe compiler) to convert the script into an executable file
 6. Run the script (or the exe) on the pc you want to steal cookies from
+
+
+The developer is not responsible for any use made with this script
