@@ -3,7 +3,7 @@ A script that will steal chrome cookies and sends to you via e-mail
 
 IMPORTANT
 1. The given e-mail must be a Google based e-mail (example@gmail.com)
-2. Both PCs must have an Internet connection and able to reach Gmail servers
+2. Both PCs must have an Internet connection and be able to reach Gmail servers
 
 HOW TO USE IT
 
