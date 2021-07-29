@@ -2,7 +2,7 @@
 A script that will extract chrome cookies and sends to you via e-mail
 
 CookieLogger is a script I made using Python to test the online accounts security.
-Noedays, many websites reccomend to use strong passwords and other security tricks, but is not useful at all if the login is not required EVERY TIME you open the website. Infact, a lot of websites are able to know which device is trying to acces from, allowing you to bypass the login by saving a cookie file into your PC.
+Nowdays, many websites reccomend to use strong passwords and other security tricks, but is not useful at all if the login is not required EVERY TIME you open the website. Infact, a lot of websites are able to know which device is trying to acces from, allowing you to bypass the login by saving a cookie file into your PC.
 And what if that file was in another device?
 
 IMPORTANT
