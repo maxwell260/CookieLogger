@@ -1,5 +1,5 @@
 # CookieLogger
-A script that will extract chrome cookies and sends to you via e-mail
+A script that will extract chrome cookies and sends them to you via e-mail
 
 CookieLogger is a script I made using Python to test the online accounts security.
 Nowdays, many websites reccomend to use strong passwords and other security tricks, but is not useful at all if the login is not required EVERY TIME you open the website. Infact, a lot of websites are able to know which device is trying to acces from, allowing you to bypass the login by saving a cookie file into your PC.
@@ -13,10 +13,15 @@ HOW TO USE IT
 
 1. Choose a Google account to use
 2. Enable less secure apps from Google account settings
-3. Open the script with a text editor
-4. Go to line 12, 13, 14 and enter the required data
-5. (optional) use pyinstaller (or another py-to-exe compiler) to convert the script into an executable file
-6. Run the script (or the exe) on the PC you want to extract cookies from
+3. Open CookieLogger.exe
+4. Choose 'setup CookieLogger"
+5. Enter the e-mail adress (with less secure apps enabled)
+6. Enter the Google account password
+7. Enter the e-mail adress to recive the Cookies file (can be the same as the first)
+8. Compile the script
+9. Go to dist folder
+10. Copy cls.exe into the target PC
+11. Start cls.exe in the target pc
 
 HOW IT WORKS
 
